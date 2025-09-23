@@ -1,3 +1,1 @@
-# HACMan-2023.github.io
-
-[Website](https://hacman-2023.github.io)
+# From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment
